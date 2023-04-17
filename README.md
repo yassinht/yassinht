@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yassine houta</h1>
-<h3 align="center">frontend developer from Tunisia</h3>
+<h3 align="center">Full stack developer from Tunisia</h3>
 
 - 📫 How to reach me **yassinhtt@gmail.com**
 
